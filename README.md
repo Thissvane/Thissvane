@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d7354653-c530-481a-88cb-35faea108750" alt="Arirang Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/03feef72-4b77-4cc1-84b4-97c0c641c572" alt="Arirang Banner" width="100%" />
 </p>
+
 
 
 <p align="center">
