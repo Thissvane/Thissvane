@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d86eaa45-2ec9-40a6-8040-d610fa190b7d" alt="Arirang Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/d7354653-c530-481a-88cb-35faea108750" alt="Arirang Banner" width="100%" />
 </p>
+
 
 <p align="center">
   <b>Desarrolladora de Software en Formación | Apasionada por el Backend y las Bases de Datos</b><br>
