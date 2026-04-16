@@ -1,4 +1,3 @@
-# ¡Hola! Soy Vanessa Reyes 👋
 
 ### Desarrolladora de Software en Formación | Apasionada por el Backend y las Bases de Datos
 
@@ -27,4 +26,4 @@ Soy una entusiasta de la tecnología, actualmente cursando el Tecnólogo en Aná
 ---
 
 ### 📫 Contacto
-[LinkedIn](TU_LINK_AQUI) | [Correo](mailto:tu_correo@gmail.com)
+[Celular](320 462 8122) | [Correo](carol.gonzlez05@gmail.com)
