@@ -1,6 +1,4 @@
 
-<h1 align="center">¡Hola! Soy Vanessa Reyes 👋</h1>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d86eaa45-2ec9-40a6-8040-d610fa190b7d" alt="Arirang Banner" width="100%" />
 </p>
@@ -11,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SENASoft_2026-Participante-gold?style=flat-square&logo=opsgenie" />
-  <img src="https://img.shields.io/badge/Mujeres_Digitales-SENA-purple?style=flat-square&logo=women-arm" />
+  <img src="https://img.shields.io/badge/SENASoft_2026-Participante-gold?style=social&logo=opsgenie" />
+  <img src="https://img.shields.io/badge/Mujeres_Digitales-SENA-purple?style=social&logo=women-arm" />
 </p>
 
 ---
