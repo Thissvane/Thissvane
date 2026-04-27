@@ -1,6 +1,6 @@
 ### Desarrolladora de Software en Formación | Apasionada por el Backend y las Bases de Datos
 
-![descripción]((https://co.pinterest.com/pin/571112796514485601/)
+![mi gif](./nombre-del-archivo.gif](https://github.com/Thissvane/Thissvane/blob/main/kitty.gif)
 
 Soy una entusiasta de la tecnología, actualmente cursando el Tecnólogo en Análisis y Desarrollo de Software en el SENA. Me enfoco en crear soluciones eficientes y bien estructuradas.
 
