@@ -8,7 +8,7 @@ Soy una entusiasta de la tecnología, actualmente cursando el Tecnólogo en Aná
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+###  Tecnologías y Herramientas
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +19,7 @@ Soy una entusiasta de la tecnología, actualmente cursando el Tecnólogo en Aná
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+###  Mis Estadísticas de GitHub
 ![Estadísticas de Vanessa](https://github-readme-stats.vercel.app/api?username=Thissvane&show_icons=true&theme=radical)
 
 ---
