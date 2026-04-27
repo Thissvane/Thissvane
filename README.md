@@ -1,5 +1,7 @@
 ### Desarrolladora de Software en Formación | Apasionada por el Backend y las Bases de Datos
 
+![descripción]((https://co.pinterest.com/pin/571112796514485601/)
+
 Soy una entusiasta de la tecnología, actualmente cursando el Tecnólogo en Análisis y Desarrollo de Software en el SENA. Me enfoco en crear soluciones eficientes y bien estructuradas.
 
 - 🏆 Participante en **SENASoft 2025** (Mujeres Digitales).
@@ -24,4 +26,4 @@ Soy una entusiasta de la tecnología, actualmente cursando el Tecnólogo en Aná
 
 ---
 ### 📫 Contacto
-[Celular](320 462 8122) | [Correo] carol.gonzlez05@gmail.com
+[Celular] 320 462 8122 | [Correo] carol.gonzlez05@gmail.com
