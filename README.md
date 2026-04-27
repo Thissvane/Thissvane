@@ -2,7 +2,7 @@
 
 Soy una entusiasta de la tecnología, actualmente cursando el Tecnólogo en Análisis y Desarrollo de Software en el SENA. Me enfoco en crear soluciones eficientes y bien estructuradas.
 
-- 🏆 Participante en **SENASoft 2026** (Mujeres Digitales).
+- 🏆 Participante en **SENASoft 2025** (Mujeres Digitales).
 - 🚀 Actualmente trabajando en el proyecto **Pets Universe**.
 - 🌱 Aprendiendo constantemente sobre arquitecturas MVC y optimización de SQL.
 
