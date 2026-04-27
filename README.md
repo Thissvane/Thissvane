@@ -24,4 +24,4 @@ Soy una entusiasta de la tecnología, actualmente cursando el Tecnólogo en Aná
 
 ---
 ### 📫 Contacto
-[Celular](320 462 8122) | [Correo](carol.gonzlez05@gmail.com)
+[Celular](320 462 8122) | [Correo] carol.gonzlez05@gmail.com
