@@ -22,7 +22,7 @@ Soy una entusiasta de la tecnología, actualmente cursando el Tecnólogo en Aná
 ---
 
 ###  Mis Estadísticas de GitHub
-![Estadísticas de Vanessa](https://github-readme-stats.vercel.app/api?username=Thissvane&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Thissvane&theme=radical&locale=es)](https://git.io/streak-stats)
 
 ---
 ### 📫 Contacto
