@@ -1,4 +1,4 @@
-### Desarrolladora de Software en Formación | Apasionada por el Backend y las Bases de Datos
+### Desarrolladora de Software en Formación | Apasionada por el desarrollo web y las Bases de Datos
 
 ![mi gif](https://github.com/Thissvane/Thissvane/blob/main/kitty.gif)
 
