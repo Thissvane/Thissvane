@@ -19,7 +19,7 @@ Soy una entusiasta de la tecnología, actualmente cursando el Tecnólogo en Aná
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED2939?style=for-the-badge&logo=java&logoColor=white)
 ---
 
 ###  Mis Estadísticas de GitHub
